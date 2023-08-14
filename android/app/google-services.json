@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "937030285401",
+    "project_id": "fiver-db7ec",
+    "storage_bucket": "fiver-db7ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937030285401:android:143d66f3b354a333c71948",
+        "android_client_info": {
+          "package_name": "com.example.video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937030285401-m3rbo09bpg4l5f8p509jmsvodnbo5gsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlgUMu7Hw3Obf3fDEbSN9H4Cj3zl2T7Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937030285401-m3rbo09bpg4l5f8p509jmsvodnbo5gsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937030285401:android:47e074dadef7c9eec71948",
+        "android_client_info": {
+          "package_name": "com.example.video_downloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937030285401-m3rbo09bpg4l5f8p509jmsvodnbo5gsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlgUMu7Hw3Obf3fDEbSN9H4Cj3zl2T7Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937030285401-m3rbo09bpg4l5f8p509jmsvodnbo5gsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
